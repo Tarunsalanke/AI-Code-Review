@@ -5,16 +5,13 @@ AI-Code-Review is a project aimed at leveraging artificial intelligence to assis
 
 ## Features
 - Automated code review suggestions
-- Identification of potential bugs and vulnerabilities
-- Integration with popular code repositories
+- Identification of potential bugs and vulnerabilities 
 - User-friendly interface for developers
 
 ## Technology Stack
-- **Frontend:** JavaScript, CSS, HTML
-- **Backend:** Node.js (or specify if different)
-- **Database:** (Specify if applicable)
+- **Frontend:** Vite+React
+- **Backend:** Node.js
 
-## Getting Started
 
 ### Prerequisites
 - Node.js and npm installed on your machine.
