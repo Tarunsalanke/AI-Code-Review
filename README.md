@@ -10,7 +10,7 @@ AI-Code-Review is a project aimed at leveraging artificial intelligence to assis
 
 ## Technology Stack
 - **Frontend:** Vite+React
-- **Backend:** Node.js
+- **Backend:** Express.js
 
 
 ### Prerequisites
